@@ -1,0 +1,9 @@
+venv/
+model/
+test_images/
+underwater-auto-image-encoder/
+output/raw_converted/
+output/ai_processed/
+__pycache__/
+*.pyc
+.DS_Store
